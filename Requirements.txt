@@ -1,0 +1,4 @@
+Python 3.8.8
+flask == 2.0.1
+flask_session == 0.3.2
+xlrd == 2.0.1 
